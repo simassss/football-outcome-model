@@ -1,0 +1,10 @@
+method,group,observations,mean_predicted,actual_frequency,actual_minus_predicted,std_error
+proportional,longshots (probability below 0.20),3535,0.1375,0.1383,0.0008,0.0058
+proportional,middle (0.20 to 0.50),10529,0.3098,0.3053,-0.0045,0.0045
+proportional,favourites (0.50 or more),3036,0.643,0.6574,0.0145,0.0086
+power,longshots (probability below 0.20),3683,0.1313,0.1393,0.008,0.0057
+power,middle (0.20 to 0.50),10210,0.3069,0.304,-0.0029,0.0046
+power,favourites (0.50 or more),3207,0.6495,0.6495,0.0,0.0084
+shin,longshots (probability below 0.20),3619,0.1328,0.1395,0.0068,0.0058
+shin,middle (0.20 to 0.50),10285,0.3069,0.3032,-0.0038,0.0045
+shin,favourites (0.50 or more),3196,0.6454,0.6499,0.0045,0.0084

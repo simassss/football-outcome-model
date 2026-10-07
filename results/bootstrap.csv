@@ -1,0 +1,43 @@
+season,approach,loss_difference,ci_low,ci_high
+1920,Class frequencies,0.0916,0.0434,0.1369
+1920,Logistic regression,0.0041,-0.0183,0.026
+1920,Gradient boosting,0.0207,-0.0083,0.0468
+1920,Poisson goals model,-0.0033,-0.025,0.0157
+1920,Blend: Logistic regression,-0.0016,-0.0039,0.0005
+1920,Blend: Gradient boosting,0.0,0.0,0.0
+1920,Blend: Poisson goals model,-0.004,-0.0086,-0.0001
+2021,Class frequencies,0.0828,0.0346,0.1258
+2021,Logistic regression,0.0427,0.019,0.0668
+2021,Gradient boosting,0.0397,0.0124,0.0684
+2021,Poisson goals model,0.0346,0.0138,0.0569
+2021,Blend: Logistic regression,0.0104,0.0013,0.0195
+2021,Blend: Gradient boosting,0.0013,-0.004,0.0067
+2021,Blend: Poisson goals model,0.0153,0.0029,0.0282
+2122,Class frequencies,0.1357,0.0919,0.1783
+2122,Logistic regression,0.0232,0.0052,0.041
+2122,Gradient boosting,0.0283,0.0052,0.0522
+2122,Poisson goals model,0.0213,0.0039,0.0373
+2122,Blend: Logistic regression,0.0,0.0,0.0
+2122,Blend: Gradient boosting,0.0,0.0,0.0
+2122,Blend: Poisson goals model,0.0,0.0,0.0
+2223,Class frequencies,0.085,0.0418,0.1266
+2223,Logistic regression,0.0307,0.011,0.049
+2223,Gradient boosting,0.0516,0.0273,0.077
+2223,Poisson goals model,0.0303,0.0122,0.0469
+2223,Blend: Logistic regression,0.0,0.0,0.0
+2223,Blend: Gradient boosting,0.0025,0.0001,0.005
+2223,Blend: Poisson goals model,0.0,0.0,0.0
+2324,Class frequencies,0.1427,0.0998,0.1856
+2324,Logistic regression,0.0214,0.0023,0.0408
+2324,Gradient boosting,0.0363,0.01,0.0619
+2324,Poisson goals model,0.02,0.0016,0.0375
+2324,Blend: Logistic regression,0.0026,-0.0036,0.0085
+2324,Blend: Gradient boosting,0.0,0.0,0.0
+2324,Blend: Poisson goals model,0.0006,-0.0015,0.0024
+2425,Class frequencies,0.1079,0.0685,0.1508
+2425,Logistic regression,0.0216,0.0059,0.0362
+2425,Gradient boosting,0.0435,0.0233,0.066
+2425,Poisson goals model,0.0177,0.0039,0.0315
+2425,Blend: Logistic regression,0.0,0.0,0.0
+2425,Blend: Gradient boosting,0.0,0.0,0.0
+2425,Blend: Poisson goals model,0.0,0.0,0.0

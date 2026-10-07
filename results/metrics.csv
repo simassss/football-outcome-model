@@ -1,0 +1,6 @@
+approach,log_loss,accuracy,bets,profit_units,roi_percent
+Class frequencies,1.0816,0.408,450,-50.66,-11.3
+Bookmaker (Bet365),0.9738,0.538,0,0.0,0.0
+Logistic regression,0.9954,0.507,242,-34.53,-14.3
+Gradient boosting,1.0173,0.515,351,-74.91,-21.3
+Poisson goals model,0.9915,0.507,244,-35.93,-14.7

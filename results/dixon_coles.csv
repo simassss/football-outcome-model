@@ -1,0 +1,36 @@
+approach,season,log_loss,rps
+Class frequencies,1920,1.064,0.23
+Class frequencies,2021,1.0929,0.2466
+Class frequencies,2122,1.0698,0.2359
+Class frequencies,2223,1.0498,0.2284
+Class frequencies,2324,1.0559,0.2337
+Class frequencies,2425,1.0816,0.2358
+Class frequencies,mean,1.069,0.2351
+Bookmaker (Bet365),1920,0.9725,0.1987
+Bookmaker (Bet365),2021,1.0101,0.2143
+Bookmaker (Bet365),2122,0.9341,0.1887
+Bookmaker (Bet365),2223,0.9649,0.1988
+Bookmaker (Bet365),2324,0.9132,0.1848
+Bookmaker (Bet365),2425,0.9738,0.1983
+Bookmaker (Bet365),mean,0.9614,0.1973
+Poisson goals model,1920,0.9692,0.1982
+Poisson goals model,2021,1.0448,0.2248
+Poisson goals model,2122,0.9554,0.1963
+Poisson goals model,2223,0.9951,0.2088
+Poisson goals model,2324,0.9332,0.1914
+Poisson goals model,2425,0.9915,0.2046
+Poisson goals model,mean,0.9815,0.204
+Dixon-Coles,1920,0.9687,0.1983
+Dixon-Coles,2021,1.0203,0.2171
+Dixon-Coles,2122,0.9496,0.1942
+Dixon-Coles,2223,1.0052,0.2122
+Dixon-Coles,2324,0.9422,0.1929
+Dixon-Coles,2425,1.0125,0.2119
+Dixon-Coles,mean,0.9831,0.2045
+Blend: Dixon-Coles,1920,0.9672,0.1974
+Blend: Dixon-Coles,2021,1.0129,0.215
+Blend: Dixon-Coles,2122,0.9342,0.1888
+Blend: Dixon-Coles,2223,0.9672,0.1995
+Blend: Dixon-Coles,2324,0.9132,0.1848
+Blend: Dixon-Coles,2425,0.9738,0.1983
+Blend: Dixon-Coles,mean,0.9614,0.1973

@@ -1,0 +1,25 @@
+season,comparison,log_loss_diff,dm_stat_log_loss,dm_p_log_loss,rps_diff,dm_stat_rps,dm_p_rps,ci_low,ci_high
+1920,Dixon-Coles vs Bookmaker,-0.0037,-0.408,0.683084,-0.00038,-0.136,0.891672,-0.0223,0.0146
+1920,Dixon-Coles vs Poisson goals model,-0.0004,-0.055,0.956381,0.0001,0.047,0.962134,-0.0155,0.0156
+1920,Blend: Dixon-Coles vs Bookmaker,-0.0052,-1.384,0.16646,-0.0013,-1.164,0.244555,-0.0131,0.0023
+2021,Dixon-Coles vs Bookmaker,0.0102,1.187,0.235162,0.00278,1.0,0.317109,-0.0069,0.0272
+2021,Dixon-Coles vs Poisson goals model,-0.0245,-2.929,0.003404,-0.00772,-3.082,0.002055,-0.0395,-0.0097
+2021,Blend: Dixon-Coles vs Bookmaker,0.0028,0.54,0.588914,0.00065,0.39,0.696628,-0.0077,0.0132
+2122,Dixon-Coles vs Bookmaker,0.0155,1.676,0.093703,0.00547,1.903,0.057007,-0.0021,0.0347
+2122,Dixon-Coles vs Poisson goals model,-0.0059,-0.727,0.467219,-0.00208,-0.826,0.408933,-0.0212,0.011
+2122,Blend: Dixon-Coles vs Bookmaker,0.0001,0.123,0.902201,0.00011,0.386,0.699809,-0.0017,0.002
+2223,Dixon-Coles vs Bookmaker,0.0404,4.027,5.6e-05,0.01346,4.079,4.5e-05,0.0203,0.0589
+2223,Dixon-Coles vs Poisson goals model,0.0101,1.229,0.219096,0.00346,1.381,0.167156,-0.006,0.0261
+2223,Blend: Dixon-Coles vs Bookmaker,0.0023,2.252,0.024302,0.00075,2.308,0.020974,0.0002,0.0042
+2324,Dixon-Coles vs Bookmaker,0.029,2.96,0.003072,0.00812,2.716,0.006607,0.0087,0.0491
+2324,Dixon-Coles vs Poisson goals model,0.009,1.262,0.207002,0.00148,0.729,0.466002,-0.0048,0.0241
+2324,Blend: Dixon-Coles vs Bookmaker,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2425,Dixon-Coles vs Bookmaker,0.0387,3.767,0.000165,0.01365,3.9,9.6e-05,0.0199,0.0577
+2425,Dixon-Coles vs Poisson goals model,0.021,2.672,0.007544,0.00731,2.767,0.005652,0.0059,0.036
+2425,Blend: Dixon-Coles vs Bookmaker,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+mean,Dixon-Coles vs Bookmaker,0.021683,2.2015,0.169207,0.007183,2.243667,0.212089,0.002933,0.040367
+pooled,Dixon-Coles vs Bookmaker,0.0217,5.563,0.0,0.00718,5.755,0.0,0.0146,0.0294
+mean,Dixon-Coles vs Poisson goals model,0.00155,0.242,0.310108,0.000425,0.169333,0.335322,-0.013517,0.017183
+pooled,Dixon-Coles vs Poisson goals model,0.0016,0.48,0.631021,0.00043,0.433,0.665371,-0.005,0.0076
+mean,Blend: Dixon-Coles vs Bookmaker,0.0,0.255167,0.613646,3.5e-05,0.32,0.610328,-0.003717,0.003617
+pooled,Blend: Dixon-Coles vs Bookmaker,-0.0,-0.004,0.996714,4e-05,0.103,0.917706,-0.002,0.0022

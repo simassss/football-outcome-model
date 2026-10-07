@@ -1,0 +1,19 @@
+season,model,model_weight,model_log_loss,bookmaker_log_loss,blend_log_loss
+1920,Logistic regression,0.1,0.9765,0.9725,0.9708
+1920,Gradient boosting,0.0,0.9932,0.9725,0.9725
+1920,Poisson goals model,0.2,0.9692,0.9725,0.9684
+2021,Logistic regression,0.4,1.0528,1.0101,1.0206
+2021,Gradient boosting,0.2,1.0498,1.0101,1.0115
+2021,Poisson goals model,0.6,1.0448,1.0101,1.0254
+2122,Logistic regression,0.0,0.9573,0.9341,0.9341
+2122,Gradient boosting,0.0,0.9624,0.9341,0.9341
+2122,Poisson goals model,0.0,0.9554,0.9341,0.9341
+2223,Logistic regression,0.0,0.9955,0.9649,0.9649
+2223,Gradient boosting,0.1,1.0165,0.9649,0.9674
+2223,Poisson goals model,0.0,0.9951,0.9649,0.9649
+2324,Logistic regression,0.3,0.9346,0.9132,0.9158
+2324,Gradient boosting,0.0,0.9495,0.9132,0.9132
+2324,Poisson goals model,0.1,0.9332,0.9132,0.9138
+2425,Logistic regression,0.0,0.9954,0.9738,0.9738
+2425,Gradient boosting,0.0,1.0173,0.9738,0.9738
+2425,Poisson goals model,0.0,0.9915,0.9738,0.9738
